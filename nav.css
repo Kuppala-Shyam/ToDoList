@@ -1,0 +1,47 @@
+body{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+.btn{
+    border: 5px solid;
+    /* border-radius: 50%; */
+    height: 30px;
+    width: 5px;
+}
+#div{
+    border: 2px solid;
+    margin-left: 21%;
+    /* padding-left: 25%; */
+    margin-top: 0%;
+    width: 30%; 
+     /* height: 350px; */
+    /* display: flex; */
+    /* align-items: flex-start; */
+
+}
+.first{
+    /* border: 2px solid; */
+    display: flex;
+    width: 350px;
+    height: 30px;
+
+}
+.sec{
+    /* border: 2px solid; */
+    width: 200px;
+}
+.to{
+    /* border: 2px solid; */
+    width: 35%;
+    height: 50;
+    margin-left: 30%;
+    padding-left: 5%;
+}
+.do{
+    /* border: 2px solid; */
+    width: 75%;
+    margin-left: 10%;
+}
+
+
